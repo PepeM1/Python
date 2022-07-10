@@ -1,0 +1,1 @@
+print("\nyou \nare \ngay " * 10000)
